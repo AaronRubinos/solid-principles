@@ -1,4 +1,4 @@
-# solid-principles
+# SOLID PRINCIPLES
 
 Improve the following codes to implement SOLID principles in OOP.
 
@@ -52,4 +52,9 @@ public class OrderTest {
     order.sendEmailNotification("johndoe@example.com");
   }
 }
+
+# UML CLASS DIAGRAM
+![SolidPrinciples](https://github.com/AaronRubinos/solid-principles/assets/142986554/3cc84589-77f5-4ff6-aa5e-cfde37eca9d7)
+
+
 
